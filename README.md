@@ -4,5 +4,5 @@
 
 hello there. 
 
--day 0
--cool
+- day 0
+- cool
